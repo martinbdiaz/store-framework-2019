@@ -36,7 +36,8 @@
       "CallToActionMode": "enlace",
       "CallToActionText": "Go to Collection",
       "CallToActionUrl": "/sale/",
-      "TextAlignment": "center"
+      "TextAlignment": "center",
+      "blockClass": "metal"
     }
   }
 }
